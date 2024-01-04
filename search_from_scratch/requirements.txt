@@ -1,0 +1,8 @@
+faiss-cpu
+notebook
+pandas
+scikit-learn
+sentence-transformers
+torch
+tqdm
+transformers
